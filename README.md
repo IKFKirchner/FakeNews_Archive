@@ -6,7 +6,7 @@
 On Monday, April 23rd, 10 pedestrians were attacked and killed by the driver of a rental van in Toronto, Canada. In the first hours of confusion and panic, twitter was the main media platform where pictures of the incident, eye witness reports, and reports on the aftermath as well as the following arrest of the driver accrued to provide a first overview over the situation. However, the hunger for new information amidst the initial disorientation lend itself as a breeding ground for speculation, false allegations and racial biases that reinforced the prejudice of terrorist attacks being predominantly committed by Muslims. Accordingly, early tweets confidently declared the driver to be Muslim and thereby fed into a popular narrative discriminating Muslims and labeling Islam as a particularly violent religion. 
 
 
-Quickly, an unstoppable dynamic set off that wove the initial factual reports into a larger political discourse on the refugee crisis (see below) and Trudeau’s presidency. (pic 6) Unsurprisingly, Alt-right figures such as Gavin McInnes and Paul Joseph Watson (pic5) also seized the opportunity to further provoke with racist comments. This toxic debate was legitimized by journalists that provided the seemingly reliable information that the driver was indeed Middle Eastern (pic3). Although this information was soon repudiated as the driver turned out to be a young misogynist Christian of Armenian origins, the narrative of a Middle Eastern driver and ‘yet another’ Islamic terrorist attack lingered on for hours and even days. 
+Quickly, an unstoppable dynamic set off that wove the initial factual reports into a larger political discourse on the refugee crisis (see below) and Trudeau’s presidency. ![picture](https://github.com/IKFKirchner/datastory/blob/master/MITH%20Tweet%206.png) Unsurprisingly, Alt-right figures such as Gavin McInnes and Paul Joseph Watson (pic5) also seized the opportunity to further provoke with racist comments. This toxic debate was legitimized by journalists that provided the seemingly reliable information that the driver was indeed Middle Eastern (pic3). Although this information was soon repudiated as the driver turned out to be a young misogynist Christian of Armenian origins, the narrative of a Middle Eastern driver and ‘yet another’ Islamic terrorist attack lingered on for hours and even days. 
 
 
 In order to show the evolution of this toxic dynamic and the predominance of popular tweets over actually accurate tweets, I have collected all tweets in response to the attack in Toronto. 
@@ -25,11 +25,15 @@ I searched ‘#toronto OR #yongeandfinch since:2018-04-23’ on TWARC but got no
 Also, I searched google for screenshots of tweets that could illustrate my point and easily found some examples from April 23rd that I included here. 
 
 
+Here is the link to my [data](https://github.com/IKFKirchner/datastory/blob/master/data/tweets.csv)
+
+
 
 ## What can the data tell us?
 
 
-The predominant language in which the tweets were written is English, which is hardly surprising given that the attack took place in Toronto. (pic)
+The predominant language in which the tweets were written is English, which is hardly surprising given that the attack took place in Toronto. ![chart](https://github.com/IKFKirchner/datastory/blob/master/chart.png)
+
 
 
 A more interesting analysis could trace the most commonly used words as the debate on Twitter unfolds. For this, I would divide the data of the first day for every half hour to show the quickly changing dynamic. For the following days, I would divide by 2 hours. For each set, I would then create a word cloud on ‘Voyant Tools’ using a ‘stop word list’ that would exclude common yet irrelevant words. This kind of analysis can be best described as narrating change over time, although I hoped to focus on the persistence of the narrative rather than the on the changes once the first false report on a Middle Eastern driver was released. 
@@ -49,9 +53,9 @@ Without a doubt, at least some users eventually chose to delete their tweets aft
 
 
 
-## Examples of Links
 
-A link to my [data](https://github.com/umd-mith/datastory/raw/master/data/dh.csv)
+
+
 
 
 
