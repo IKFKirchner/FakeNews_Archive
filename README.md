@@ -1,4 +1,4 @@
-# The persistene of false narratives
+# The persistence of false narratives
 
 ## Why did I collect this data?
 
