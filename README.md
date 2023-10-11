@@ -32,7 +32,7 @@ I first identified the main hashtags that were used in tweeting about the attack
 
 In addition to the TWARC search, I searched Google for screenshots of tweets.
 
-Here is the link to my [data](https://github.com/IKFKirchner/datastory/blob/master/data/tweets.csv)
+Here is the link to my [data](https://github.com/IKFKirchner/datastory/blob/master/data/tweets.csv). [Deleted for privacy reasons. Contact me directly for access.]
 
 
 
