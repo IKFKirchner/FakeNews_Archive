@@ -1,4 +1,8 @@
-# The persistence of false narratives
+# The persistence of false narratives: A small Twitter archive
+
+## What will you find in this repository?
+
+
 
 ## Why did I collect this data?
 
