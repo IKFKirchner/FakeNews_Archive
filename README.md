@@ -6,7 +6,7 @@ This project was part of a larger project at the Maryland Institute for Technolo
 
 ## What will you find in this repository?
 
-The archive has been deleted from GitHub to protect the privacy of their authors. The repository currently only includes this ReadMe and five images of Tweets that have been anonymized. Please contact me directly for access to the full archive with more than 20k tweets and approximately 1000 images.
+The archive has been deleted from GitHub to protect the privacy of its authors. The repository currently only includes this ReadMe and five images of Tweets that have been anonymized. Please contact me directly for access to the full archive with more than 20k tweets and approximately 1000 images.
 
 
 
